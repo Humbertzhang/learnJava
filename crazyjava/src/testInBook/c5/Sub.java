@@ -13,6 +13,6 @@ public class Sub extends Base
     public String color;
     public Sub(double size, String name, String color)
     {
-        
+
     }
 }
